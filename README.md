@@ -12,7 +12,6 @@ R version 3.4.4
 -lme4
 -optmix
 Python version 3.8.3
--
 Plink v1.9
 Annovar
 MAGMA v1.10
