@@ -7,13 +7,16 @@ Last updated: 2022-09-14
 
 This repository is administered by Tomer Zohar (tzohar@mit.edu)
 
-Required Software and Packages
-\nR version 3.4.4
-\n-lme4
-\n-optmix
-\nPython version 3.8.3
+Required Software and Packages:
+
+R version 3.4.4 (lme4, optmix)
+
+Python version 3.8.3
+
 Plink v1.9
+
 Annovar
+
 MAGMA v1.10
 
 Analysis was carried out under either with Windows 10 or MIT's BioMicro Center Linux compuation cluster
