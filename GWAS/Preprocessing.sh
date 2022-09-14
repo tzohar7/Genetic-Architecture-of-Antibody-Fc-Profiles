@@ -2,8 +2,6 @@
 #SBATCH -N 1                      # Number of nodes. You must always set -N 1 unless you receive special instruction from the system admin
 #SBATCH -n 1                      # Number of Tasks. Don't specify more than 16 unless approved by the system admin
 #SBATCH --job-name=preproc
-#SBATCH --mail-type=END           # Type of email notification- BEGIN,END,FAIL,ALL. Equivalent to the -m option in SGE 
-#SBATCH --mail-user=tzohar@mit.edu  # Email to which notifications will be sent. Equivalent to the -M option in SGE. You must replace user@mit.edu with your email address.
 #SBATCH --array=0-22
 
 printf "jobstarting...\n\n"
@@ -20,8 +18,10 @@ CURRENT_FILE=${FILES[${SLURM_ARRAY_TASK_ID}]}
 
 echo current dataset is $CURRENT_FILE
 
-WORDTOREMOVE1=".dose.vcf.gz"
-WORDTOREMOVE2="/home/tzohar/data/vcffiles/1000G_P3V5_PID_hdredit_"
+# replace with extension string
+WORDTOREMOVE1="extension"
+# replace with directory location
+WORDTOREMOVE2="/home/"
 
 OUTPUT_PHRASE="${CURRENT_FILE//$WORDTOREMOVE1/}"
 OUTPUT_PHRASE="${OUTPUT_PHRASE//$WORDTOREMOVE2/}"
@@ -43,5 +43,3 @@ rm ~/data/bedfiles/$OUTPUT_PHRASE.dups
 printf "\nDone removing duplicates.\n"
 
 printf '\nFinished!\n\n'
-
-
