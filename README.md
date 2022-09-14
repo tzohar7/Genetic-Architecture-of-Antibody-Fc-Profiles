@@ -16,7 +16,7 @@ Annovar
 
 MAGMA v1.10
 
-Analysis was carried out under either with Windows 10 or MIT's BioMicro Center Linux compuation cluster
+Analysis was carried out either with Windows 10 or MIT's BioMicro Center Linux Computing Cluster
 
 
 This repository is administered by Tomer Zohar (tzohar@mit.edu)
