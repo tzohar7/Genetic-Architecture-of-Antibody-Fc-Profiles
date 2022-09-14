@@ -7,7 +7,7 @@ Last updated: 2022-09-14
 
 This repository is administered by Tomer Zohar (tzohar@mit.edu)
 
-Required Software and Packages:
+Required Software and Packages
 R version 3.4.4
 -lme4
 -optmix
