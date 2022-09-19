@@ -16,7 +16,7 @@ Preprocessing and GWAS
 \
 Post-GWAS
 1. Clumping.sh
-- Clumping with post-GWAS_array_clump.sh
+- Clumping results with Clumping.sh
 
 2. Make results tables for both lead SNPs and LD SNPs
 - Run post-GWAS-analysis to generate results table
