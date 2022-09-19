@@ -20,10 +20,10 @@ Post-GWAS
 
 2. Make results tables for both lead SNPs and LD SNPs
 - Generate results table with Results_Table.py
-- Get rsIDs
-- Get RegulomeDB ranks  
+- Get rsIDs with Fetch_rsID.sh
+- Get RegulomeDB data with 
 - Annotation: run Make_AVINPUT.R to make input and annoate with Annovar.sh
-- Get gene info
+- Get gene info 
 
 3. MAGMA_GSA.sh
 - Run gene-set analysis with MAGMA_GSA.sh to get genes and gene sets for all features
