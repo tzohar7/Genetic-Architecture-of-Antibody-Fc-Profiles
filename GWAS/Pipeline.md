@@ -19,7 +19,7 @@ Post-GWAS
 - Clumping results with Clumping.sh
 
 2. Make results tables for both lead SNPs and LD SNPs
-- Run post-GWAS-analysis to generate results table
+- Generate results table with Generate_Table.py
 - Get rsIDs
 - Get RegulomeDB ranks  
 - Annotation annovar
