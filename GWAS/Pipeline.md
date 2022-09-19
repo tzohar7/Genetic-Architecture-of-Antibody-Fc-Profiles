@@ -21,7 +21,7 @@ Post-GWAS
 2. Make results tables for both lead SNPs and LD SNPs
 - Generate results table with Results_Table.py
 - Get rsIDs with Fetch_rsID.sh
-- Get RegulomeDB data with 
+- Get RegulomeDB data with Fetch_ReglomeDB_Scores.R
 - Annotation: run Make_AVINPUT.R to make input and annoate with Annovar.sh
 - Get gene info 
 
