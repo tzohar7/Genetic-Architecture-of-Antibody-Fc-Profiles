@@ -22,7 +22,7 @@ Post-GWAS
 - Generate results table with Results_Table.py
 - Get rsIDs
 - Get RegulomeDB ranks  
-- Annotation annovar
+- Annotation: run Make_AVINPUT.R to make input and annoate with Annovar.sh
 - Get gene info
 
 3. MAGMA_GSA.sh
