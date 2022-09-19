@@ -11,7 +11,7 @@ Preprocessing and GWAS
 - Covariates.txt file is made for processing with fast-lmm and includes Age and first 10 PCs of population stratification. (Must be requested with genotypic data)
 
 3. GWAS.sh
-- Run GWAS with slurm file GWAS.sh that uses the fast-lmm_assoc.py file
+- Run GWAS with slurm file GWAS.sh that uses the GWAS.py file
 
 \
 Post-GWAS
