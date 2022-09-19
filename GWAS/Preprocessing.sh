@@ -8,6 +8,7 @@ printf "jobstarting...\n\n"
 
 module load plink
 
+# Change to your directories
 INPUTDIR=~/data/vcffiles
 WORKDIR=~/data/vcffiles
 cd $WORKDIR
