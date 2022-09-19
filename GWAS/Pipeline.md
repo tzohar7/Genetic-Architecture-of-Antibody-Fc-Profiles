@@ -23,7 +23,6 @@ Post-GWAS
 - Get rsIDs with Fetch_rsID.sh
 - Get RegulomeDB data with Fetch_ReglomeDB_Scores.R
 - Annotation: run Make_AVINPUT.R to make input and annoate with Annovar.sh
-- Get gene info 
 
 3. MAGMA_GSA.sh
 - Run gene-set analysis with MAGMA_GSA.sh to get genes and gene sets for all features
