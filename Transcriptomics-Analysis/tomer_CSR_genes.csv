@@ -1,0 +1,11 @@
+Process,gene1,gene2,gene3,gene4,gene5,gene6,gene7,gene8,gene9,gene10,gene11,gene12,gene13,gene14,gene15,gene16,gene17,gene18,gene19,gene20,gene21,gene22,gene23
+Isotype switching process,ERCC1,MSH6,LIG4,NBN,UNG,RNF8,EXO1,BATF,SWAP70,AICDA,RNF168,APLF,MAD2L2,EXOSC3,KMT5B,SHLD2,HMCES,KMT5C,EXOSC6,SHLD1,SHLD3,NA,NA
+General regulation of isotype switching,SUPT6H,NDFIP1,SUPT16H,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Positive general regulation of isotype switching,CD40,MLH1,MSH2,TFRC,TP53BP1,PAXIP1,RIF1,IL10RA,IL10RB,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Negative general regulation of isotype switching,BCL6,PARP3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Positive regulation of class switching to IgA,TGFBR1,TGFBR2,SMAD2,SMAD3,SMAD4,RUNX3,ZFYVE9,CREB1,TNFRSF13B,TNFRSF13C,SPI1,TGFB1,ELF1,CD40,PAX5,MYD88,IRAK1,IRAK4,TRAF6,SUV39H1,IL5RA,CCR6,NSD2
+Negative regulation of class switching to IgA ,SMAD7,SMURF1,SMURF2,THOC1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Positive regulation of class switching to IgG1,CD40,STAT6,IL2RA,IL2RB,IL4R,IKZF1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Positive regulation of class switching to IgG2,SMAD3,SMAD4,RUNX3,STAT1,STAT2,IFNGR1,IFNGR2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Positive regulation of class switching to IgG3,TLR1,TLR2,TLR4,TLR7,TLR9,IFNGR1,IFNGR2,IKZF1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Positive regulation of class switching to IgG4,IL2RA,IL2RB,IL6R,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
